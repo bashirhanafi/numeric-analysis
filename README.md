@@ -1,1 +1,1 @@
-# numeric-analysis
+## Numerical Analysis Practicum
